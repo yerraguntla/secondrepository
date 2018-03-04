@@ -8,6 +8,8 @@ public class Addstringtoexistingword {
 		System.out.println(s+" "+s1);
 
 		System.out.println("Madusudhan make changes in the program");
+		
+		System.out.println("Madusudhan make two changes in the program");
 	}
 
 }
